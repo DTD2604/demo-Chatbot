@@ -81,7 +81,7 @@ project/
 ├── jupyter_env/            # môi trường ảo
 ├── requirements.txt        # thư viện cần cài
 ├── .env                    # file môi trường
-├── example.env                    # file môi trường mẫu
+├── example.env             # file môi trường mẫu
 ├── README.md               # file hướng dẫn
 └── ...
 ```
